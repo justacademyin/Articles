@@ -1,6 +1,8 @@
 # Full Stack Mobile App Development
 
-[![Full-stack](https://justacademy.co/storage2/program_images/1704700371.webp)](https://justacademy.co/program-detail/full-stack-web-development)
+<div style="text-align:center">
+  [![Full-stack](https://justacademy.co/storage2/program_images/1704700371.webp)](https://justacademy.co/program-detail/full-stack-web-development)
+</div>
 
 Full stack mobile app development refers to the process of developing a mobile application from the ground up, including both front-end and back-end development. It involves creating a seamless user experience by building the app's interface and functionality, as well as integrating it with a server and database. This approach allows for a faster and more efficient development process, as all components of the mobile app are developed simultaneously and can easily communicate with each other. Full stack mobile app development is crucial for creating robust and high-quality mobile applications that meet user demands and expectations.
 ### To Download Our Brochure https://www.justacademy.co/download-brochure-for-free
