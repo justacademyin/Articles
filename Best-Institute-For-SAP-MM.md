@@ -1,5 +1,5 @@
 # Best Institute For SAP MM
-
+<meta name="google-site-verification" content="CGEf6Xow1KUmAYvsRFyT7M-EixT3JO9TzJRs7QspMPc" />
 <p align="center">
   <a href="https://justacademy.co/course-detail/sap-mm-training">
     <img src="https://justacademy.co/storage2/course_image/1709190408_course_image.webp" alt="Best Institute For SAP MM">
